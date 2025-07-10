@@ -19,7 +19,6 @@ Tienda Arrebo es un ecommerce fullstack simulado con:
 - Registro/login con JWT
 - Persistencia de sesión con LocalStorage
 - Protección de rutas privadas
-## 🚀 Características principales
 
 ## 🚀 Características principales
 
@@ -35,4 +34,4 @@ Tienda Arrebo es un ecommerce fullstack simulado con:
 
 1. Clona el repositorio:
 
-git clone https://github.com/tu-usuario/tienda-arrebo.git
+git clone [https://github.com/tu-usuario/tienda-arrebo.git](https://github.com/Ivanna49/Talento-Tech-Proyecto-Final-Tienda.git)
