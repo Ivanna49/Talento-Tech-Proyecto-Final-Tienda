@@ -30,8 +30,4 @@ Tienda Arrebo es un ecommerce fullstack simulado con:
 ✅ Optimizado para SEO  
  
 
-## 🛠 Instalación local
 
-1. Clona el repositorio:
-
-git clone [https://github.com/tu-usuario/tienda-arrebo.git](https://github.com/Ivanna49/Talento-Tech-Proyecto-Final-Tienda.git)
